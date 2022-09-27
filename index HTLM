@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="eg">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
 
-<body>
-  <h1>Hello!</h1>
-
-
-
-</body>
-</html>
 
 
 <!DOCTYPE html>
@@ -34,10 +19,9 @@
   </p>
   <br>
   <hr>
-  <p>Можеш підписатися на мої інстаграм акаунти</p>
+  <p>Можеш підписатися на мiй інстаграм акаунт</p>
   <ul>
     <li><a href="https://www.instagram.com/lena_manes/">@lena_manes</a></li>
   </ul>
 </body>
 
-</html>
