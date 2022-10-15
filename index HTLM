@@ -12,7 +12,7 @@
 </head>
 
 <body>
-  <h1>👋 Привіт! Я, Олена Iвченко!</h1>
+  <h1>👋 Привіт! Я, Олена!</h1>
   <p>Це мій перший сайт на курсі <a href="https://merge.academy/front-end" target="_blank">"Front-end developer"</a> від
     <a href="https://merge.academy" target="_blank">Merge
       Academy</a>
@@ -21,7 +21,8 @@
   <hr>
   <hr>
   <br>
-</p>>Можеш підписатися на мiй інстаграм акаунт:</p>
+
+</p>Можеш підписатися на мiй інстаграм акаунт:</p>
   <ul>
     <li><a href="https://www.instagram.com/lena_manes/">@lena_manes</a></li>
   </ul>
